@@ -6,7 +6,7 @@
 <a href="https://1lesson.guru">CLICK TO START GAME</a>
 
 
-<a href="https://lesson-1.guru"><img src="https://clearcache.store/games2.jpg"></a>
+<a href="https://lesson-1.guru"><img src="https://clearcache.store/games2.jpg?1"></a>
 
 **Unblocked Games: What They Are and the Top 30 Popular Games You Can Play**
 
