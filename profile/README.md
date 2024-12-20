@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-**Here are some ideas to get you started:**
+**Here are some ideas to get you started:**</br>
 **CLICK TO PLAY GAME**
+</br>
+<a href="https://1lesson.guru">CLICK TO START GAME</a>
 
 
-
-<a href="https://lesson-1.guru"><img src="https://clearcache.store/games.png"></a>
+<a href="https://lesson-1.guru"><img src="https://clearcache.store/games2.jpg"></a>
 
 **Unblocked Games: What They Are and the Top 30 Popular Games You Can Play**
 
